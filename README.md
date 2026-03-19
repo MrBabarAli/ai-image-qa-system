@@ -238,7 +238,7 @@ Open an issue on GitHub
 
 Connect on LinkedIn
 
-Send an email to [your-email]
+Send an email to [usmankkjj11@gmail.com]
 
 ⭐ Star this repository if you find it useful!
 
