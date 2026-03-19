@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Model files (large files to exclude)
+models_cache/
+*.bin
+*.safetensors
+
+# Uploads
+uploads/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+*.log
+
+# ChromaDB (if any)
+chroma_db/
+test_chroma_db/
